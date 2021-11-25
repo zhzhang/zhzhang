@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jordan.
 - 👔 I'm a machine learning engineer at Twitch.
-- 🔬 I’m interested research tooling for scientists and paths to production for cutting edge tech.
+- 🔬 I’m interested in research tooling for scientists and paths to production for cutting edge tech.
 
 <!---
 zhzhang/zhzhang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
